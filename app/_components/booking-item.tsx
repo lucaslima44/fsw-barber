@@ -10,7 +10,7 @@ const BookingItem = () => {
           <Badge className="hover:bg[#221C3D] w-fit bg-[#221C3D] text-primary">
             Confirmado
           </Badge>
-          <h2 className="font-bold">Corte de Cabelo 01:44:26</h2>
+          <h2 className="font-bold">Corte de Cabelo</h2>
 
           <div className="flex items-center gap-2">
             <Avatar className="h-6 w-6">
